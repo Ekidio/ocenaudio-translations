@@ -104,7 +104,7 @@
     </message>
     <message>
         <source>Regions and Markers</source>
-        <translation>Tartományk és jelölő</translation>
+        <translation>Régiók és Markerek</translation>
     </message>
     <message>
         <source>Level Meter</source>
@@ -112,7 +112,7 @@
     </message>
     <message>
         <source>Effec&amp;ts</source>
-        <translation>&amp;Hatások</translation>
+        <translation>&amp;Effektek</translation>
     </message>
     <message>
         <source>Amplitude</source>
@@ -124,7 +124,7 @@
     </message>
     <message>
         <source>Equalization</source>
-        <translation>Kiegyenlítő</translation>
+        <translation>Hangszínszabályozó</translation>
     </message>
     <message>
         <source>Delay</source>
@@ -160,7 +160,7 @@
     </message>
     <message>
         <source>Move Cursor</source>
-        <translation>Kurzor eltolása</translation>
+        <translation>Kurzor mozagtása</translation>
     </message>
     <message>
         <source>New...</source>
@@ -228,7 +228,7 @@
     </message>
     <message>
         <source>Trim</source>
-        <translation>Kiszabás</translation>
+        <translation>Trimmelés</translation>
     </message>
     <message>
         <source>Adjust Sample Rate...</source>
@@ -312,7 +312,7 @@
     </message>
     <message>
         <source>Sound Properties...</source>
-        <translation>Audiótulajdonságok...</translation>
+        <translation>Tulajdonságok...</translation>
     </message>
     <message>
         <source>Reverse</source>
@@ -345,11 +345,11 @@
     </message>
     <message>
         <source>Next</source>
-        <translation>Következő sáv</translation>
+        <translation>Következő</translation>
     </message>
     <message>
         <source>Previous</source>
-        <translation>Előző sáv</translation>
+        <translation>Előző</translation>
     </message>
     <message>
         <source>Off</source>
@@ -377,11 +377,11 @@
     </message>
     <message>
         <source>Noise</source>
-        <translation>Zörej</translation>
+        <translation>Zaj</translation>
     </message>
     <message>
         <source>DTMF</source>
-        <translation>Többfrekvenciás hangok (DTMF)</translation>
+        <translation>DTMF hangok</translation>
     </message>
     <message>
         <source>Frames</source>
@@ -393,7 +393,7 @@
     </message>
     <message>
         <source>Gain...</source>
-        <translation>Szint...</translation>
+        <translation>Jelszint...</translation>
     </message>
     <message>
         <source>Remove DC</source>
@@ -417,7 +417,7 @@
     </message>
     <message>
         <source>Remove All Metadata</source>
-        <translation>Minden metaadat eltávolítása</translation>
+        <translation>Minden Metaadat eltávolítása</translation>
     </message>
     <message>
         <source>Show Navigator Window</source>
@@ -429,15 +429,15 @@
     </message>
     <message>
         <source>Split Audio at Markers</source>
-        <translation>Audió megosztása a jelölőkön</translation>
+        <translation>Audió szétvágása a Markereknél </translation>
     </message>
     <message>
         <source>Goto Preview Marker</source>
-        <translation>Ugrás az előnézet-jelölőhöz</translation>
+        <translation>Ugrás az előnézet-Markerhez</translation>
     </message>
     <message>
         <source>Next Marker</source>
-        <translation>Következő jelölő</translation>
+        <translation>Következő Marker</translation>
     </message>
     <message>
         <source>Ctrl+Alt+Right</source>
@@ -445,7 +445,7 @@
     </message>
     <message>
         <source>Previous Marker</source>
-        <translation>Előző jelölő</translation>
+        <translation>Előző Marker</translation>
     </message>
     <message>
         <source>Ctrl+Alt+Left</source>
@@ -461,7 +461,7 @@
     </message>
     <message>
         <source>Fade...</source>
-        <translation>Fény-csökkentés...</translation>
+        <translation>Fade...</translation>
     </message>
     <message>
         <source>Show Sidebar</source>
@@ -469,11 +469,11 @@
     </message>
     <message>
         <source>Create Region</source>
-        <translation>Tartomány készítése</translation>
+        <translation>Régió létrehozása</translation>
     </message>
     <message>
         <source>Apply Quantization...</source>
-        <translation>Kvantálás használata...</translation>
+        <translation>Kvantálás alkalmazása...</translation>
     </message>
     <message>
         <source>Audio Screenshot...</source>
@@ -518,11 +518,11 @@
     </message>
     <message>
         <source>31-Band Graphic Equalizer...</source>
-        <translation>31-sávos grafikus hangszínszabályzó...</translation>
+        <translation>31-sávos grafikus hangszínszabályozó...</translation>
     </message>
     <message>
         <source>11-Band Graphic Equalizer...</source>
-        <translation>11-sávos grafikus hangszínszabályzó...</translation>
+        <translation>11-sávos grafikus hangszínszabályozó...</translation>
     </message>
     <message>
         <source>Clipboard</source>
@@ -534,11 +534,11 @@
     </message>
     <message>
         <source>FFT Analysis</source>
-        <translation>FFT elemzés</translation>
+        <translation>FFT Elemzés</translation>
     </message>
     <message>
         <source>Delay...</source>
-        <translation>Késleltetés...</translation>
+        <translation>Delay...</translation>
     </message>
     <message>
         <source>Flanger...</source>
@@ -546,11 +546,11 @@
     </message>
     <message>
         <source>Chorus...</source>
-        <translation>Kórus...</translation>
+        <translation>Chorus...</translation>
     </message>
     <message>
         <source>Reverb...</source>
-        <translation>Utóhangzás...</translation>
+        <translation>Reverb...</translation>
     </message>
     <message>
         <source>Vibrato...</source>
@@ -558,15 +558,15 @@
     </message>
     <message>
         <source>Compressor...</source>
-        <translation>Tömörítő...</translation>
+        <translation>Kompresszor...</translation>
     </message>
     <message>
         <source>Expander...</source>
-        <translation>Bővítő...</translation>
+        <translation>Expander...</translation>
     </message>
     <message>
         <source>Limiter...</source>
-        <translation>Határoló...</translation>
+        <translation>Limiter...</translation>
     </message>
     <message>
         <source>Noise Gate...</source>
@@ -582,7 +582,7 @@
     </message>
     <message>
         <source>Loop</source>
-        <translation>Hurok</translation>
+        <translation>Loop</translation>
     </message>
     <message>
         <source>Mute Left Channel</source>
@@ -598,7 +598,7 @@
     </message>
     <message>
         <source>Invert</source>
-        <translation>Megfordítás</translation>
+        <translation>Invertálás</translation>
     </message>
     <message>
         <source>Export...</source>
@@ -610,11 +610,11 @@
     </message>
     <message>
         <source>PlaceHolder</source>
-        <translation>Helyőrző</translation>
+        <translation>Placeholder</translation>
     </message>
     <message>
         <source>Add Marker</source>
-        <translation>Jelölő megadása</translation>
+        <translation>Marker hozzáadása</translation>
     </message>
     <message>
         <source>Show All</source>
@@ -622,19 +622,19 @@
     </message>
     <message>
         <source>Show Regions</source>
-        <translation>Tartományk látszanak</translation>
+        <translation>Régiók megjelenítése</translation>
     </message>
     <message>
         <source>Show Loops</source>
-        <translation>Hurkok látszanak</translation>
+        <translation>Loopok megjelenítése</translation>
     </message>
     <message>
         <source>Show Markers</source>
-        <translation>Jelölő látszik</translation>
+        <translation>Markerek megjelenítése</translation>
     </message>
     <message>
         <source>Create iPhone Ringtone...</source>
-        <translation>iPhone csengetés hang készítése...</translation>
+        <translation>iPhone csengőhang készítése...</translation>
     </message>
     <message>
         <source>Snap to Scale Tick</source>
@@ -650,39 +650,39 @@
     </message>
     <message>
         <source>Regions and Markers...</source>
-        <translation>Tartományok és jelölők...</translation>
+        <translation>Régiók és Markerek...</translation>
     </message>
     <message>
         <source>Show Channels Id</source>
-        <translation>Látszik a csatorna-ID</translation>
+        <translation>Channel-ID mutatása</translation>
     </message>
     <message>
         <source>Repeat ___ Effect</source>
-        <translation>Ismétlés ___ hatás</translation>
+        <translation>Ismétlés ___ effekt</translation>
     </message>
     <message>
         <source>Export Regions Text...</source>
-        <translation>Tartomány-leírás exportálása...</translation>
+        <translation>Régiószövegek exportálása...</translation>
     </message>
     <message>
         <source>Select Audio From Regions</source>
-        <translation>Tartományok kiválasztása</translation>
+        <translation>Audió kiválasztása Régiókból</translation>
     </message>
     <message>
         <source>Export Audio From Regions...</source>
-        <translation>Tartományok exportálása...</translation>
+        <translation>Audió exportálás Régiókból...</translation>
     </message>
     <message>
         <source>Import Regions...</source>
-        <translation>Tartományok importálása...</translation>
+        <translation>Régiók importálása...</translation>
     </message>
     <message>
         <source>Redo</source>
-        <translation>Helyreállítás</translation>
+        <translation>Visszaállítás</translation>
     </message>
     <message>
         <source>Mini Level Meter</source>
-        <translation>Mini-szintjelző</translation>
+        <translation>Mini szintjelző</translation>
     </message>
     <message>
         <source>Full-size Level Meter</source>
@@ -694,7 +694,7 @@
     </message>
     <message>
         <source>Hide Markers Label</source>
-        <translation>Jelölő-címke elrejtése</translation>
+        <translation>Markernév elrejtése</translation>
     </message>
     <message>
         <source>Detect DTMF Tones</source>
@@ -702,7 +702,7 @@
     </message>
     <message>
         <source>Rescan Audio Devices</source>
-        <translation>Audióeszközök újbóli keresésen</translation>
+        <translation>Audióeszközök újbóli keresése</translation>
     </message>
     <message>
         <source>Meta+Space</source>
@@ -726,7 +726,7 @@
     </message>
     <message>
         <source>Record Options</source>
-        <translation>Felvétel opciók</translation>
+        <translation>Felvétel beállítások</translation>
     </message>
     <message>
         <source>Preroll</source>
@@ -1026,7 +1026,7 @@
     </message>
     <message>
         <source>Time Stretch</source>
-        <translation>Időszakasz</translation>
+        <translation>Idő nyújtás-tömörítés</translation>
     </message>
     <message>
         <source>100</source>
@@ -1085,7 +1085,7 @@
     </message>
     <message>
         <source>Compressor</source>
-        <translation>Tömörítő</translation>
+        <translation>Kompresszor</translation>
     </message>
     <message>
         <source>Threshold</source>
@@ -1121,7 +1121,7 @@
     </message>
     <message>
         <source>Limiter</source>
-        <translation>Korlátozó</translation>
+        <translation>Limiter</translation>
     </message>
     <message>
         <source>-2dB</source>
@@ -1185,19 +1185,19 @@
     </message>
     <message>
         <source>Applying Compressor</source>
-        <translation>Tömörítő használata</translation>
+        <translation>Kompresszor alkalmazása</translation>
     </message>
     <message>
         <source>Applying Expansor</source>
-        <translation>Bővítő használata</translation>
+        <translation>Expansor használata</translation>
     </message>
     <message>
         <source>Expansor</source>
-        <translation>Bővítő</translation>
+        <translation>Expansor</translation>
     </message>
     <message>
         <source>Applying Limiter</source>
-        <translation>Korlátozó használata</translation>
+        <translation>Limiter alkalmazása</translation>
     </message>
     <message>
         <source>Applying Noise Gate</source>
@@ -1208,11 +1208,11 @@
     <name>QFadeDialog</name>
     <message>
         <source>Apply Fade</source>
-        <translation>Rekesz használata</translation>
+        <translation>Fade használata</translation>
     </message>
     <message>
         <source>Fade Options</source>
-        <translation>Rekesz-opciók</translation>
+        <translation>Fade beállítások</translation>
     </message>
     <message>
         <source>Direction</source>
@@ -1625,15 +1625,15 @@
     </message>
     <message>
         <source>Graphic Equalizer</source>
-        <translation>Grafikus kiegyenlítő</translation>
+        <translation>Grafikus hangszínszabályozó</translation>
     </message>
     <message>
         <source>Applying Equalization</source>
-        <translation>Kiegyenlítő használata</translation>
+        <translation>hangszínszabályozó használata</translation>
     </message>
     <message>
         <source>Equalizer</source>
-        <translation>Kiegyenlítő</translation>
+        <translation>Hangszínszabályozó</translation>
     </message>
     <message>
         <source>V shape</source>
@@ -2178,7 +2178,7 @@ Channel
     </message>
     <message>
         <source>Apple Peak Limiter</source>
-        <translation>Apple csúcs-korlátozó</translation>
+        <translation>Apple Peak Limiter</translation>
     </message>
     <message>
         <source>Apple Multiband Compressor</source>
@@ -2198,15 +2198,15 @@ Channel
     </message>
     <message>
         <source>Apple Graphic Equalizer</source>
-        <translation>Apple grafikus Equalizer</translation>
+        <translation>Apple Grafikus Hangszínszabályozó</translation>
     </message>
     <message>
         <source>Apple Parametric Equalizer</source>
-        <translation>Apple parametrikus Equalizer</translation>
+        <translation>Apple Parametrikus Hangszínszabályozó</translation>
     </message>
     <message>
         <source>Apple N-Band Equalizer</source>
-        <translation>Apple N-sáv Equalizer</translation>
+        <translation>Apple N-Band Hangszínszabályozó</translation>
     </message>
     <message>
         <source>Apple Pitch</source>
@@ -2262,7 +2262,7 @@ Channel
     </message>
     <message>
         <source>Audio Units Effects</source>
-        <translation>Audió-egység-hatások</translation>
+        <translation>AU Plug-inek</translation>
     </message>
     <message>
         <source>Generate Menu</source>
@@ -2466,19 +2466,19 @@ Channel
     </message>
     <message>
         <source>Exporting As</source>
-        <translation>Exportálás mint</translation>
+        <translation>Exportálás másként</translation>
     </message>
     <message>
         <source>Exporting Selection As</source>
-        <translation>Exportált választás mint</translation>
+        <translation>Kijelöltek exportálása másként</translation>
     </message>
     <message>
         <source>region</source>
-        <translation>Rlgió</translation>
+        <translation>Régió</translation>
     </message>
     <message>
         <source>Exporting Regions As</source>
-        <translation>Exportált tartomány mint</translation>
+        <translation>Régiók exportálása másként</translation>
     </message>
     <message>
         <source>Information</source>
@@ -4363,7 +4363,7 @@ a PC-n vagy hálózatán a megnyitáshoz:</translation>
     <name>QOcenVSTWidget</name>
     <message>
         <source>VST Effect</source>
-        <translation>VST-hatás</translation>
+        <translation>VST effekt</translation>
     </message>
     <message>
         <source>Applying %1|%1</source>
@@ -4371,7 +4371,7 @@ a PC-n vagy hálózatán a megnyitáshoz:</translation>
     </message>
     <message>
         <source>Plugin crashed</source>
-        <translation>Beépülő összeomlott</translation>
+        <translation>Plugin összeomlott</translation>
     </message>
     <message>
         <source>The plugin %1 crashed and will be finalized.</source>
@@ -4383,7 +4383,7 @@ a PC-n vagy hálózatán a megnyitáshoz:</translation>
     </message>
     <message>
         <source>VST Effect:</source>
-        <translation>VST-hatás:</translation>
+        <translation>VST effekt:</translation>
     </message>
     <message>
         <source>Manufacturer:</source>
@@ -4398,7 +4398,7 @@ a PC-n vagy hálózatán a megnyitáshoz:</translation>
     </message>
     <message>
         <source>List of VST Plugins</source>
-        <translation>VST-beépülők listája</translation>
+        <translation>VST-pluginek listája</translation>
     </message>
     <message>
         <source>/Library/Audio/plugins/VST/delay.vst</source>
